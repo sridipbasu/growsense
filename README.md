@@ -68,7 +68,7 @@ GrowSense/
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone [https://github.com/your-username/growsense.git](https://github.com/your-username/growsense.git)
+git clone [https://github.com/sridipbasu/growsense.git](https://github.com/sridipbasu/growsense.git)
 cd growsense
 ```
 
@@ -116,7 +116,9 @@ E --> F[Evaluation];
 ---
 
 ## 📜 License  
-This project is licensed under the **MIT License** ---
+This project is licensed under the **MIT License**
+
+---
 
 ## 👨‍💻 Authors  
 
